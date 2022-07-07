@@ -1,0 +1,223 @@
+/* Menu CSS */
+
+h6
+{
+
+}
+
+.emb
+{
+margin-top:0;
+width:30%;
+height:30%;
+
+
+}
+
+.t
+{
+table-layout:fixed;
+background-color:#656565;
+font-family:Arial, Helvetica, sans-serif;
+width:1310;
+height:40;
+color:White;
+border-color:2px solid black;
+}
+
+.menu:hover 
+{
+background-color:white;
+color:black;
+}
+
+.menu:focus
+{
+background-color:white;
+color:black;
+}
+
+.in
+{
+border: solid 1px;
+border-radius:5px;
+height:33px;
+width:190px;
+padding:14px;
+
+
+}
+
+.in6
+{
+border: solid 1px;
+border-radius:5px;
+height:10px;
+width:190px;
+padding:14px;
+
+
+}
+
+
+.in2
+{
+border-radius :10px; 
+height:30px; 
+padding: 5px;
+}
+
+a
+{ text-decoration:none;
+}
+.in3
+{
+border: solid 1px;
+border-radius:5px;
+height:10px;
+width:180px;
+padding:14px;
+
+}
+.button2 
+{ 
+height:35px;
+width:210px;
+background-color:#00CC66;
+font-weight:bold;
+}
+
+.button3 
+{ 
+height:35px;
+width:160px;
+background-color:rgb(34,218,109);
+font-weight:bold;
+color:white;
+
+}
+.button4 
+{ 
+height:35px;
+width:100px;
+background-color:rgb(34,218,109);
+font-weight:bold;
+color:white;
+
+}
+
+.in7
+{
+
+border:  0px;
+font-size:15px;
+background-color:white;
+font-family:Futura Lt BT; 
+font-weight:400;
+}
+
+.in8
+{
+visibility:hidden;
+}
+
+.in9
+{
+border: solid 1px;
+border-radius:5px;
+height:30px;
+width:170px;
+padding:10px;
+
+}
+.in10
+{
+border: solid 1px;
+border-radius:5px;
+height:40px;
+width:170px;
+padding:5px;
+
+}
+.in11
+{
+border: solid 1px;
+height:20px;
+width:170px;
+border-radius:3px;
+}
+.in40
+{
+border: solid 1px;
+height:20px;
+width:265px;
+border-radius:3px;
+}
+.in50
+{
+border: solid 1px;
+height:20px;
+width:250px;
+border-radius:3px;
+padding:5px;
+}
+.in51
+{
+border: solid 1px;
+height:150px;
+width:280px;
+border-radius:3px;
+padding:5px;
+}
+.in12
+{
+border: solid 1px;
+height:20px;
+width:80px;
+border-radius:3px;
+}
+
+.in60
+{
+
+border: 1px inset;
+font-size:15px;
+font-family:Futura Lt BT; 
+font-weight:400;
+}
+
+
+.Addtocart
+{ 
+height:35px;
+width:200px;
+background-color:#07aaf6;
+font-weight:600;
+color:white;
+}
+
+.d
+{ 
+height:35px;
+width:110px;
+background-color:#07aaf6;
+font-weight:600;
+color:white;
+}
+
+.button5
+{ 
+height:30px;
+width:100px;
+background-color:#07aaf6;
+font-weight:600;
+color:white;
+}
+.button 
+{ 
+width: 100px;
+padding: 5px;
+background-color:#07aaf6;
+// box-shadow: -5px 8px 10px 3px rgba(0,0,0,0.1); 
+color:white;
+}
